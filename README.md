@@ -47,7 +47,7 @@ Validação de sensores e aquisição de sinais:
 
 ### Hardware e Sistemas Embarcados
 - ESP32 (C/C++ - Arduino)
-- Sensores (DHT22, HX711)
+- Sensores
 - Eletrônica aplicada
 
 ### Software
