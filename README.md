@@ -1,93 +1,101 @@
 # Ruan Silveira
 
-Técnico de Manutenção Industrial (Celulose e Papel)  
-Acadêmico de Engenharia Elétrica – 9ª fase  
+Industrial Maintenance Technician (Pulp and Paper Industry)  
+Electrical Engineering Student (9th semester)  
 
 ---
 
-## Atuação Técnica
+## Technical Background
 
-Experiência prática em ambiente industrial com foco em:
+Practical experience in industrial environments with focus on:
 
-- Manutenção elétrica
-- Instrumentação
-- Diagnóstico de falhas
-- Sistemas elétricos e automação
+- Electrical maintenance  
+- Instrumentation  
+- Fault diagnosis  
+- Electrical systems and automation  
 
-Desenvolvimento de soluções envolvendo:
+Development of solutions involving:
 
-- IoT aplicado (monitoramento e Agro 4.0)
-- Sistemas embarcados (ESP32)
-- Aquisição e transmissão de dados
-- Integração hardware + software
-
----
-
-## Projetos
-
-### MMS – Sistema de Monitoramento
-
-Sistema de IoT para coleta e análise de dados ambientais utilizando ESP32, backend e dashboard.
-
-### Sistemas Embarcados
-
-Desenvolvimento e testes com ESP32 envolvendo leitura de sensores, comunicação e envio de dados.
-
-### Instrumentação e Testes
-
-Validação de sensores e aquisição de sinais:
-
-- Células de carga
-- Sensores ambientais
-- Tratamento de dados
+- Applied IoT (monitoring and Agro 4.0)  
+- Embedded systems (ESP32)  
+- Data acquisition and transmission  
+- Hardware and software integration  
 
 ---
 
-## Stack Técnica
+## Projects
 
-### Hardware e Sistemas Embarcados
+### MMS – Monitoring System
+
+IoT-based system for environmental data collection and analysis using ESP32, backend and web dashboard.
+
+---
+
+### Embedded Systems
+
+Development and testing with ESP32, including:
+
+- Sensor data acquisition  
+- WiFi communication  
+- Data transmission  
+
+---
+
+### Instrumentation and Testing
+
+Validation of sensors and signal acquisition:
+
+- Load cells  
+- Environmental sensors  
+- Data processing  
+
+---
+
+## Technical Stack
+
+### Hardware and Embedded Systems
 - ESP32 (C/C++ - Arduino)
-- Sensores
-- Eletrônica aplicada
+- Sensors
+- Applied electronics
 
 ### Software
 - JavaScript
-- Node.js (API REST)
+- Node.js (REST API)
 
-### Dados
+### Data
 - SQLite (SQL)
 
-### Integração
-- Comunicação IoT
-- Arquitetura cliente-servidor
+### Integration
+- IoT communication
+- Client-server architecture
 
 ---
 
-## Aplicações
+## Applications
 
-- Monitoramento ambiental (Agro 4.0)
-- Sistemas de aquisição de dados
-- Supervisão e análise de sistemas
-
----
-
-## Em desenvolvimento
-
-- Comunicação via LoRa
-- Arquitetura distribuída com múltiplos dispositivos
-- Otimização de consumo energético
-- Expansão para aplicações industriais
+- Environmental monitoring (Agro 4.0)
+- Data acquisition systems
+- System supervision and analysis
 
 ---
 
-## Abordagem
+## Currently Developing
 
-Foco em desenvolvimento de soluções práticas conectando:
-
-sensores → aquisição → transmissão → processamento → visualização
+- LoRa communication  
+- Distributed multi-device architecture  
+- Energy consumption optimization  
+- Expansion to industrial applications  
 
 ---
 
-## Contato
+## Approach
 
-- LinkedIn: (https://www.linkedin.com/in/ruan-silveira-494110257)
+Focused on developing practical solutions by connecting:
+
+sensors → acquisition → transmission → processing → visualization
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/ruan-silveira-494110257
