@@ -34,7 +34,7 @@ flowchart LR
 | Radio protocol | [esp32-lora-reliable-link](https://github.com/rusilveira/esp32-lora-reliable-link) | Custom packet format with ACK, CRC16, sequence numbers and retransmission; SX1276 TX to RX switching issue found and fixed |
 | Gateway | [esp32-beehive-lora-gateway](https://github.com/rusilveira/esp32-beehive-lora-gateway) | Validates, deduplicates and forwards readings over Wi-Fi, recovers from Wi-Fi and API failures on its own |
 | API | [mms-backend](https://github.com/rusilveira/mms-backend) | Node.js, Express and PostgreSQL, deployed on Render, with simulators for testing without hardware |
-| Dashboard | [mms-frontend](https://github.com/rusilveira/mms-frontend) | Status classification (normal, attention, critical), history charts, offline detection. [Live demo](https://mms-frontend-ten.vercel.app) |
+| Dashboard | [mms-frontend](https://github.com/rusilveira/mms-frontend) | Status classification (normal, attention, critical), history charts, offline detection. [Live demo](https://hive-plus-dashboard.vercel.app) |
 
 The sensor node was developed in stages: [base firmware](https://github.com/rusilveira/esp32-beehive-sensor-node-base) (sensors and calibration), [low-power version](https://github.com/rusilveira/esp32-beehive-sensor-node-deepsleep) (deep sleep) and the final [LoRa node](https://github.com/rusilveira/esp32-beehive-sensor-node-lora).
 
